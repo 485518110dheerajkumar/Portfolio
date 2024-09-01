@@ -1,0 +1,123 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    
+}
+#navbarSupportedContent{
+    justify-content: right;
+    
+}
+#image1 img{
+    height: 15em;
+    border-radius: 10px;
+    background: transparent;
+
+     
+}
+#info p{
+    text-align: right;
+    font-size: x-large;
+    padding-top: 20px;
+}
+#objective{
+    text-align: left;
+    padding-top: 10px;
+}
+#experiance{
+    text-align: left;
+    padding-left: 10px;
+}
+#company1 h2{
+     background-color: gainsboro;
+     
+}
+#company2 h2{
+    background-color: gainsboro;
+
+}
+#eduhead{
+    text-align: left;
+    margin-top: 10px;
+
+}
+.highlight{
+    background-color: gainsboro;
+
+}
+#project{
+    text-align: left;
+    margin-top: 10px;
+}
+#projectdata1 h2{
+    text-align: left;
+    background-color: gainsboro;
+}
+#projectdata1 li a{
+    text-decoration: none;
+}
+#projectdata2 
+ h2{
+    text-align: left;
+    background-color: gainsboro;
+}
+#intern3 h2{
+    text-align: left;
+    background-color: gainsboro;
+
+}
+#projectdata2 li a{
+    text-decoration: none;
+}
+#Additional{
+    text-align: left;
+    margin-top: 10px;
+}
+#hobbies{
+    background-color: gainsboro;
+    padding-top: 20px;
+}
+#language{
+    background-color: gainsboro;
+    margin-top: 2px;
+}
+#border3
+{
+    margin-top: 3px;
+    border: 2px solid gainsboro;
+}
+#border2
+{
+    margin-top: 3px;
+    border: 2px solid gainsboro;
+}
+#border1
+{
+    margin-top: 3px;
+    border: 2px solid gainsboro;
+}
+#border0{
+    margin-top: 3px;
+    border: 2px solid gainsboro;
+}
+#objectivedata{
+    border: 2px solid gainsboro;
+}
+#resume{
+    padding: 5px 3px;
+    margin: 8px 8px;
+    border: 2px solid gainsboro;
+}
+#certificate{
+    margin-top: 20px;
+}
+.cart img{
+    height: 20em;
+    width: 25em;
+    padding: 20px 20px;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
